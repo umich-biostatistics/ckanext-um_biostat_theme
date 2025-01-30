@@ -1,4 +1,4 @@
-[![Tests](https://github.com/um-jglad/ckanext-um_biostat_theme/workflows/Tests/badge.svg?branch=main)](https://github.com/um-jglad/ckanext-um_biostat_theme/actions)
+[![Tests](https://github.com/umich-biostatistics/ckanext-um_biostat_theme/workflows/Tests/badge.svg?branch=main)](https://github.com/umich-biostatistics/ckanext-um_biostat_theme/actions)
 
 # ckanext-um_biostat_theme
 
@@ -31,7 +31,7 @@ To install ckanext-um_biostat_theme:
 2. Clone the source and install it on the virtualenv
 
    ```bash
-      git clone https://github.com/um-jglad/ckanext-um_biostat_theme.git
+      git clone https://github.com/umich-biostatistics/ckanext-um_biostat_theme.git
       cd ckanext-um_biostat_theme
       pip install -e .
       pip install -r requirements.txt
@@ -51,7 +51,7 @@ To install ckanext-um_biostat_theme for development, activate your CKAN virtuale
 do:
 
 ```bash
-    git clone https://github.com/um-jglad/ckanext-um_biostat_theme.git
+    git clone https://github.com/umich-biostatistics/ckanext-um_biostat_theme.git
     cd ckanext-um_biostat_theme
     pip install -e .
     pip install -r dev-requirements.txt
