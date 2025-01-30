@@ -1,0 +1,14 @@
+# um_biostat_theme-js:
+#   filter: rjsmin
+#   output: ckanext-um_biostat_theme/%(version)s-um_biostat_theme.js
+#   contents:
+#     - js/um_biostat_theme.js
+#   extra:
+#     preload:
+#       - base/main
+
+# um_biostat_theme-css:
+#   filter: cssrewrite
+#   output: ckanext-um_biostat_theme/%(version)s-um_biostat_theme.css
+#   contents:
+#     - css/um_biostat_theme.css
